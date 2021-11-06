@@ -21,7 +21,7 @@ if %menuchoice%==1 goto :adduser
 if %menuchoice%==2 net users &goto :dus
 if %menuchoice%==3 goto :chgpsw
 if %menuchoice%==4 net users
-if %menuchoice%==5 echo Puoi Verificare gli aggiornamenti sul nostro sito, https://iloohtechnology.ml/ &start https://iloohtechnology.ml/
+if %menuchoice%==5 echo Puoi Verificare gli aggiornamenti sul nostro sito, https://iloohtechnology.it/ &start https://iloohtechnology.it/
 if %menuchoice%==0 exit
 goto :cmdline
 
